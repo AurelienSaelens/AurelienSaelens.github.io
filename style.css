@@ -3,9 +3,12 @@
         top: 50%;
         left: 50%;
         transform: translate(-50%, -50%);
-        background: beige;
         margin: auto;
         font-family: 'Gemunu Libre', sans-serif;
+}
+
+body {
+    background-color: beige;
 }
 
 
@@ -33,10 +36,12 @@ box-shadow: 1px 3px 2px black;
 }
 
 #icons {
-width: 50%;
+
 text-align: center;
-margin-left: 25%;
+
 }
+
+
 
 #icons a {
 display: inline-block;
