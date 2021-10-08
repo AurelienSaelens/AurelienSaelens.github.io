@@ -14,7 +14,9 @@ To begin, this is the first step to know about [___Bootstrap___](https://docs.go
 
 # Progress report : 
 
- ### Not finish yet.  
+ ### Not finish yet. 
+ 
+ ### [link](https://aureliensaelens.github.io/Restaurant/index.html) for the page.
 
  ---   
 
