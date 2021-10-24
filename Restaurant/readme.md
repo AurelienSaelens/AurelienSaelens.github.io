@@ -57,6 +57,6 @@ A page with a contact form containing the firstname, lastname, email, subject of
 
 
 
-From ***Aurélien Saelens***  
+From ***Aurélien Saelens / BeCode***  
 
 
