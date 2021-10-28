@@ -52,16 +52,6 @@ function addScore () {
 	updateDom();
 }
 
-// Bitcoin falling to wallet 
-clickerImg.addEventListener("click", () => {
-	bitresponse.classList.add("fallingcoin");
-    setTimeout(stopcoin, 300)
-});
-
-function stopcoin () {
-    bitresponse.classList.remove("fallingcoin");
-};
-
 function reset () {
         score = 0;
         nbUpgradeOne = 0;         
