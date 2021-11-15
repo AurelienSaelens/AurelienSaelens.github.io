@@ -1,3 +1,56 @@
+#title {
+    position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        margin: auto;
+        font-family: 'Gemunu Libre', sans-serif;
+}
+
 body {
-    background-color: green;
+    background-color: beige;
+}
+
+
+h3 {
+text-align: center;
+color: #5C4033;
+}
+h2 {
+font-family: 'Gemunu Libre', sans-serif;
+text-align: center;
+color:#5C4033;
+font-size: 6em;
+margin-top: 100px;
+text-shadow: 1px 3px 2px black;
+
+}
+#Trait {
+height: 1px;
+width: 50%;
+margin: 50px auto;
+background-color: grey;
+text-shadow: 1px 3px 2px black;
+box-shadow: 1px 3px 2px black;   
+
+}
+
+#icons {
+
+text-align: center;
+
+}
+
+
+
+#icons a {
+display: inline-block;
+padding: 0 15px;
+font-size: 1.3em;
+color:#5C4033;
+}
+
+#icons a:hover {
+transform: scale(1.5);
+transition: 0.1s;
 }
